@@ -6,7 +6,7 @@
 ### <div align="center">I'm Priyank, a greedy🤤 person for knowledge, particularly in computers.🖥️</div>  
   
 
-- 🎆 You can check my [work here](https://github.com/Priyank-Bhagat?tab=repositories).  
+- 🎆 You can check my work[ here](https://github.com/Priyank-Bhagat?tab=repositories).  
   
 
 - 🌱 At the moment, I'm learning Flutter and Android Development.   
