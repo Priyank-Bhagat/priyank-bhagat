@@ -51,16 +51,17 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=priyank-bhagat&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyank-bhagat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank-bhagat&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <br/>  
 
@@ -84,13 +85,6 @@
 <br />
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank-bhagat&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=priyank-bhagat&&style=flat-square" align="center" />
+</div>  
