@@ -60,8 +60,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight)](https://git.io/streak-stats)
 
 
-![Snake animation](https://github.com/Priyank-Bhagat/priyank-bhagat/blob/output/github-contribution-grid-snake.svg)
-
 
 <br/>  
 
