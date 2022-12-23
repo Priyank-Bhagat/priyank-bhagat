@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif"  bgcolor= align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif"   align="center" style="width: 100%" />
 </div>  
   
 
@@ -23,6 +23,7 @@
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -53,16 +54,20 @@
 
 <br/>  
 
+</div>
 
 ## Github Stats  
 
+
+<div align="center">
+  
 ![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank-bhagat&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/priyank-bhagat/priyank-bhagat/blob/output/github-contribution-grid-snake.svg)
 
-
+</div>
 <br/>  
 
 
@@ -88,3 +93,11 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=priyank-bhagat&&style=flat-square" align="center" />
 </div>  
+
+
+<div align="center">
+  <br/>
+  <p><p/>
+<p><b>Have a GREAT day!</b><p/>
+<img src="https://user-images.githubusercontent.com/115228605/209328912-1aea90da-06b9-449e-b319-09561eeaca01.gif" alt="Smiley" align="center" style="width: 50%"  />
+</div>
