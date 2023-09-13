@@ -61,7 +61,8 @@
 
 <div align="center">
   
-![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank-bhagat&show_icons=true&theme=tokyonight)
+![Priyank's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyank-bhagat&&show_icons=true&theme=tokyonight)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight)](https://git.io/streak-stats)
 
