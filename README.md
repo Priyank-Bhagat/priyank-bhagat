@@ -52,6 +52,8 @@
 
 || <a href="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight"><img align="center" src="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight" /></a> ||
 
+</div>
+<div align="center">
 | <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight" /></a> |
 
 
