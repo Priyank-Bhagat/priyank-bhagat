@@ -58,9 +58,6 @@
 
 
 
-  ![Snake animation](https://github.com/Priyank-Bhagat/priyank-bhagat/blob/output/github-contribution-grid-snake.svg)
-
-
 
 </div>
 <br/>  
