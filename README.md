@@ -44,15 +44,13 @@
 ## Github Stats  
 
 
+
 <div align="center">
   
-![Priyank's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyank-bhagat&&show_icons=true&theme=tokyonight)
 
+| <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyank-bhagat&&show_icons=true&theme=tokyonight" alt="Priyank's github stats" /></a> | <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyank-bhagat&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyank-bhagat&theme=tokyonight)](https://github.com/priyank-bhagat/github-readme-stats)
-
+| <a href="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight"><img align="center" src="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight" /></a> |
 
 
   ![Snake animation](https://github.com/Priyank-Bhagat/priyank-bhagat/blob/output/github-contribution-grid-snake.svg)
