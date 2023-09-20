@@ -50,7 +50,8 @@
 
 | <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyank-bhagat&&show_icons=true&theme=tokyonight" alt="Priyank's github stats" /></a> | <a href="https://github.com/priyank-bhagat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyank-bhagat&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
-| <a href="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight"><img align="center" src="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight" /></a> |
+|| <a href="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight"><img align="center" src="https://streak-stats.demolab.com/?user=priyank-bhagat&theme=tokyonight" /></a> ||
+
 | <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyank-bhagat&theme=tokyonight" /></a> |
 
 
