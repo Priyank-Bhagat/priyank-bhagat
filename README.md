@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif"   align="center" style="width: 100%" height="500"/>
-</div>  
-  
 
 ### <div align="center">I'm Priyank, a greedy🤤 person for knowledge, particularly in computers.🖥️</div>  
   
