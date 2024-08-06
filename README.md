@@ -1,7 +1,5 @@
 
 
-
-
 ### <div align="center">I'm Priyank, a greedy🤤 person for knowledge, particularly in computers.🖥️</div>  
   
 ![cat-1--unscreen](https://github.com/Priyank-Bhagat/priyank-bhagat/assets/115228605/d6fe3e9a-dc29-47db-acff-0cf7343d7498)
