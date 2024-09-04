@@ -81,6 +81,8 @@
 <img src="https://komarev.com/ghpvc/?username=priyank-bhagat&&style=flat-square" align="center" />
 </div>  
 
+![Snake animation](https://raw.githubusercontent.com/Priyank-Bhagat/Priyank-Bhagat/output/github-contribution-grid-snake-dark.svg)
+
 
 <div align="center">
   <br/>
