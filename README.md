@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://guthib.dev">
-    <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,java,c,html,css,gradle,firebase,androidstudio,visualstudio,firebase,figma,git,github,gitlab,linux,bash,powershell"  width="100%" height="150"/>
+    <img src="https://skillicons.dev/icons?i=dart,kotlin,python,flutter,java,c,html,css,gradle,firebase,androidstudio,visualstudio,firebase,figma,git,github,gitlab,linux,bash,powershell"  width="100%" height="150"/>
   </a>
 </p>
 
